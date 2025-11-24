@@ -115,26 +115,15 @@ Based on the analysis:
 
 ---
 
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| `Consumer_Complaints_October_Challenge.pbix` | Final Power BI report |
-| `README.md` | Project documentation |
-| Dashboard Images | Screenshots of the final dashboard |
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard](images/consumer_complaints_dashboard.png)
-
----
 
 ## 🔗 Challenge Credits
 
-This analysis was completed for the **Onyx Data – DataDNA October Challenge**.
+This analysis was completed for the **Onyx Data – DataDNA October Challenge supported by:**.
 
+- Onyx Data
+- ZoomCharts
+- SmartFramesUI
+- DataCareerJumpstar
 ---
 
 ## 👤 Author
